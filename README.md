@@ -4,6 +4,6 @@
  
  参考:http://terminus.sdsu.edu/SDSU/Math693a/Lectures/18/lecture.pdf
  
- ![image](https://github.com/bfgs.png)
+ ![image](https://github.com/cuixue/math/blob/master/bfgs.png)
  
  
